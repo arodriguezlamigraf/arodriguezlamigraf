@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @arodriguezlamigraf
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning CI/CD
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me: arodriguez@lamigraf.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: Nothing
